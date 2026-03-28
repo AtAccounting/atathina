@@ -1,10 +1,10 @@
-# robots.txt — AT Athina สำนักงานบัญชี
+﻿# robots.txt — AT Athina สำนักงานบัญชี
 # 🔄 แก้ URL เป็น domain จริงก่อน deploy
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://atathina.com/sitemap.xml
+Sitemap: https://ataccounting.github.io/atathina/sitemap.xml
 
 # บอก Google ว่าเว็บนี้ index ได้ทั้งหมด

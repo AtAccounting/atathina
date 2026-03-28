@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- 🔄 แก้ https://atathina.com เป็น URL จริงของท่าน -->
+  <!-- 🔄 แก้ https://ataccounting.github.io/atathina เป็น URL จริงของท่าน -->
 
   <url>
-    <loc>https://atathina.com/</loc>
+    <loc>https://ataccounting.github.io/atathina/</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="th" href="https://atathina.com/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://ataccounting.github.io/atathina/"/>
   </url>
 
   <url>
-    <loc>https://atathina.com/#services</loc>
+    <loc>https://ataccounting.github.io/atathina/#services</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://atathina.com/#pricing</loc>
+    <loc>https://ataccounting.github.io/atathina/#pricing</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://atathina.com/#about</loc>
+    <loc>https://ataccounting.github.io/atathina/#about</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://atathina.com/#contact</loc>
+    <loc>https://ataccounting.github.io/atathina/#contact</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
