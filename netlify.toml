@@ -1,0 +1,22 @@
+# netlify.toml — deploy ไปที่ Netlify ฟรี
+# วิธีใช้:
+#   1. ไปที่ netlify.com → สมัครฟรี
+#   2. "Add new site" → "Deploy manually"
+#   3. ลาก folder "website" ทั้งโฟลเดอร์ไปวาง
+#   4. ได้ URL เช่น atathina.netlify.app ทันที
+#   5. (ตัวเลือก) เชื่อม domain จริง atathina.co.th
+
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

@@ -1,0 +1,6 @@
+# ไม่เอาไฟล์ร่างหรือข้อมูลภายใน
+marketing_content_pack.md
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
